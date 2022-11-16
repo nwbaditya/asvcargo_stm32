@@ -1,0 +1,3 @@
+../Core/Src/sbus_decoder.c:7:13:sbus_decoder_get_frame	24	static
+../Core/Src/sbus_decoder.c:34:6:sbus_decoder_get_byte	48	static
+../Core/Src/sbus_decoder.c:56:6:sbus_decoder_get_buf	24	static
